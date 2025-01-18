@@ -1,16 +1,42 @@
-## Hi there 👋
+# Welcome! 👋
 
+### Hi, I'm Nick 😄
+I'm an Industrial Engineering graduate🧑‍🎓 with a minor in Business💰. I have a focus on data analytics📊, working with the entire pipeline - from sourcingℹ️ to cleaning🧼 to visualizations👀. 
+
+I have an interest in cities & urban planning🏙️, transit🚅, organization design🏢, healthcare🏥, and sports🏀🏒⚽. I look to apply data analytics with each of these fields!
+
+### 🕐 Currently
+- 🔭 I’m working on a tool that will help with NBA Fantasy🏀!
+- 🌱 I’m learning about R, advanced SQL, advanced VBA, and 3D printing!
+### 🔜 Near Future 
+- 🤔 I'm thinking about potential project ideas involving:
+  - 🏀 Finding tendencies in NBA betting odds
+  - 🎵 Visualizing my Spotify data
+### 🚀 Distant Future
+- 💭 I'm looking into the possibility of projects related to:
+  - 🚲 bike share data
+  - 📖 library usage data
+  - 🥦 grocery prices data
+  - 🚗 gas pricing data
+  - 🏆 listing all potential outcomes in a group stage (e.g. FIFA WC after the first set of games)
+- 🧠 I intend to learn more about:
+  - 📈 Project Management
+  - 🤖 Machine Learning
+  - 🐂 Spanish
+- 📚 I intend to improve my:
+  - 💻 Coding best practices
+  - 🥖 French
+  - 🀄 Chinese
+ 
+🤝 Thanks for reading! 👋
+
+[//]: # (This is another way to make a comment.)
 <!--
 **NickDiep/NickDiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 💬 Ask me about 
+- 📫 How to reach me: ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
