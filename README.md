@@ -21,7 +21,7 @@ I have an interest in cities & urban planning🏙️, transit🚅, organization 
   - 🏆 listing all potential outcomes in a group stage (e.g. FIFA WC after the first set of games)
 - 🧠 I intend to learn more about:
   - 📈 Project Management
-  - 🤖 Machine Learning
+  - 🤖 Machine Learning and Predictive Modeling
   - 🐂 Spanish
 - 📚 I intend to improve my:
   - 💻 Coding best practices
