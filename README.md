@@ -29,14 +29,3 @@ I have an interest in cities & urban planning🏙️, transit🚅, organization 
   - 🀄 Chinese
  
 🤝 Thanks for reading! 👋
-
-[//]: # (This is another way to make a comment.)
-<!--
-**NickDiep/NickDiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 💬 Ask me about 
-- 📫 How to reach me: ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
--->
