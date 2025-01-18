@@ -3,6 +3,11 @@
 ### Hi, I'm Nick 😄
 I'm an Industrial Engineering graduate🧑‍🎓 with a minor in Business💰. I have a focus on data analytics📊, working with the entire pipeline - from sourcingℹ️ to cleaning🧼 to visualizations👀. 
 
+I'm comfortable with these tools🛠️:
+- Language: Python (pandas), SQL
+- Database: SQLite
+- Visualization: Power BI, Tableau, Matplotlib
+
 I have an interest in cities & urban planning🏙️, transit🚅, organization design🏢, healthcare🏥, and sports🏀🏒⚽. I look to apply data analytics with each of these fields!
 
 ### 🕐 Currently
@@ -22,6 +27,7 @@ I have an interest in cities & urban planning🏙️, transit🚅, organization 
 - 🧠 I intend to learn more about:
   - 📈 Project Management
   - 🤖 Machine Learning and Predictive Modeling
+  - 📑 Database Management Tools (MySQL, PostgreSQL)
   - 🐂 Spanish
 - 📚 I intend to improve my:
   - 💻 Coding best practices
